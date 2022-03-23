@@ -1,0 +1,93 @@
+body{
+    margin:0px;
+    kground-image:url(image/banner.jpg);
+   width:100%;
+   height:100%;
+   margin-top: 0px;
+}
+
+
+
+
+
+.form-top{
+    margin-top:-69px;
+    margin-left:-11%;
+    width:131%;
+    height:50%;
+    color:black;
+}
+.form-name{
+    margin-top:4px;
+    margin-left: 3%;
+    width:95%;
+    height:34px;
+    padding-top: .5rem;
+padding-bottom: .5rem;
+padding-left: 18px;
+padding-right: 18px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 5px;
+
+}
+.form-desc{
+    margin-top:0px;
+    margin-left: 3%;
+    width:95%;
+    height:127px;
+    padding-top: .5rem;
+padding-bottom: .5rem;
+padding-left: 18px;
+padding-right: 18px;
+    -webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+border-radius: 2px;
+}
+.form-fea{
+    margin-top:0px;
+     margin-left: 3%;
+    width:95%;
+    height:61px;
+    -webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+border-radius: 2px;
+padding-top: .5rem;
+padding-bottom: .5rem;
+padding-left: 18px;
+padding-right: 18px;
+}
+.form-cost{
+    margin-top:0px;
+    margin-left: 3%;
+    width:95%;
+    height:30px;
+    padding-top: .5rem;
+padding-bottom: .5rem;
+padding-left: 18px;
+padding-right: 18px;
+    -webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+border-radius: 2px;
+}
+.form-add{
+    margin-top:0px;
+    margin-left: 3%;
+    width:95%;
+    height:43px;
+    color: #fff;
+border: 1px solid #6b76ff;
+padding-top: .5rem;
+padding-bottom: .5rem;
+padding-left: 18px;
+padding-right: 18px;
+background:linear-gradient(to right, #0c2646 0%, #204065 60%, #2a5788 100%);
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+border-radius: 2px;
+}
